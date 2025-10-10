@@ -197,7 +197,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Start typing animation
         new Typed('.typed-container', {
             strings: [letterContent.join('')],
-            typeSpeed: 30,
+            typeSpeed: 20,
             backSpeed: 0,
             fadeOut: true,
             onComplete: () => {
@@ -316,4 +316,5 @@ document.addEventListener('DOMContentLoaded', () => {
     bgMusic.load();
     openSound.load();
     modalSound.load();
+
 });
