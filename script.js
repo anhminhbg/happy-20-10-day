@@ -16,9 +16,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Letter Content with typing delays
     const letterContent = [
-        "Thân gửi người phụ nữ tuyệt vời,^1000\n\n",
+        "Thân gửi những người phụ nữ tuyệt vời,^1000\n\n",
         "Nhân dịp ngày Phụ Nữ Việt Nam 20/10,^500\n",
-        "tôi xin gửi đến bạn những lời chúc tốt đẹp nhất!^1000\n\n",
+        "chúng tôi xin gửi đến các bạn những lời chúc tốt đẹp nhất!^1000\n\n",
         "Mỗi người phụ nữ là một bông hoa tuyệt đẹp,^500\n",
         "tô điểm cho cuộc sống này thêm rực rỡ.^1000\n"
     ];
@@ -318,3 +318,4 @@ document.addEventListener('DOMContentLoaded', () => {
     modalSound.load();
 
 });
+
